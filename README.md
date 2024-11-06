@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chimzyy
-- 👀 I’m interested in databse and data security
+- 👀 I’m interested in learning about Database,Data security and Data Analysis
 - 🌱 I’m currently learning html,sql and css
-- 💞️ I’m looking to collaborate on Asp and R
+- 💞️ I’m looking to collaborate on Asp and R 
 - 📫 How to reach me kingsleyanosike36@gmail.com
 - 😄 Pronouns: Him
 - ⚡ Fun fact: Even impossible says possible
